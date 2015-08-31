@@ -27,6 +27,7 @@
 \textsc{\Huge{\so{Marcus Vinicius C. Berger}}}\\ \ \\
 
 %\section{Objetivo}
+
 Estagiar na área de desenvolvimento de software.
 
 %\section{Resumo}
@@ -63,7 +64,7 @@ Estagiar na área de desenvolvimento de software.
 \end{tabularx}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
-2013        & HTML Básico (8h)\\
+2015        & HTML Básico (8h)\\
             & CIEE\\ \\
 \end{tabularx}
 
@@ -81,13 +82,7 @@ Atividades  & Analisar ,conferir e arquivar documentos diversos, Auxiliar na ela
 \section{Conhecimentos Básicos}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
-    & HTML, CSS, C, Java, Github, Linux, Eclipse e Windows\\
-\end{tabularx}
-
-\section{Links}
-
-\begin{tabularx}{0.97\linewidth}{p{2cm}X}
-        & Github: github.com/MarcusBerger\\
+        & HTML, CSS, C, Github, Linux, Eclipse e Windows\\
 \end{tabularx}
 
 \end{document}

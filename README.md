@@ -75,5 +75,11 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 ## Conhecimentos Básicos
 
 <table>
-	<tr><td>Github, C, HTML, CSS, Linux e Windows</td></tr>
+	<tr><td>Github, C, HTML, Java, CSS, Linux e Windows</td></tr>
+</table>
+
+## Links
+
+<table>
+	<tr><td>Github: github.com/MarcusBerger</td></tr>
 </table>

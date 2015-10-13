@@ -63,7 +63,15 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
       <td> 2015 </td>
       <td>
-           Linux com Ubuntu: processos e programas(3h) <br />
+           Linux com Ubuntu: processos e programas <br />
+           Alura/Caelum
+        </td>
+    </tr>
+
+   <tr>
+      <td> 2015 </td>
+      <td>
+           Git: Trabalho em equipe com controle e segurança <br />
            Alura/Caelum
         </td>
     </tr>	

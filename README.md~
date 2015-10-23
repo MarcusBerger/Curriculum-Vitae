@@ -114,4 +114,5 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 
 <table>
 	<tr><td>Github: github.com/MarcusBerger</td></tr>
+	<tr><td>Site Pessoal: marcusberger.ninja</td></tr>
 </table>

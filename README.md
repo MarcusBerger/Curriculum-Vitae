@@ -14,7 +14,7 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2014 - Atual </td>
         <td> 
-            Graduação em Ciências da Computação <br /> 
+            Graduação em Ciência da Computação <br /> 
             Universidade Paulista, UNIP <br />
         </td>
     </tr>

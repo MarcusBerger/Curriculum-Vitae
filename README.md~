@@ -50,10 +50,42 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
             Try Git <br />
             Code School
         </td>
+    </tr>
+
+    <tr>
+      <td> 2015 </td>
+      <td>
+           Android Development for Beginners(24h) <br />
+           Udacity
+        </td>
+    </tr>
+
+    <tr>
+        <td> 2015 </td>
+        <td> 
+            Introdução a HTML5 e CSS3 (32h) <br />
+            Alura/Caelum
+        </td>
+    </tr>
+
+    <tr>
+      <td> 2015 </td>
+      <td>
+           Linux com Ubuntu: processos e programas <br />
+           Alura/Caelum
+        </td>
+    </tr>
+
+   <tr>
+      <td> 2015 </td>
+      <td>
+           Git: Trabalho em equipe com controle e segurança <br />
+           Alura/Caelum
+        </td>
     </tr>	
 
     <tr>
-        <td> 2012 </td>
+        <td> 2013 </td>
         <td> 
             HTML básico (8h) <br />
             CIEE
@@ -75,7 +107,7 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 ## Conhecimentos Básicos
 
 <table>
-	<tr><td>Github, C, HTML, Java, CSS, Linux e Windows</td></tr>
+	<tr><td>Github, C, HTML, Java, CSS, Linux, Windows e Android Studio</td></tr>
 </table>
 
 ## Links

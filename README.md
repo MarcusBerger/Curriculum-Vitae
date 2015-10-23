@@ -61,6 +61,14 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     </tr>
 
     <tr>
+        <td> 2015 </td>
+        <td> 
+            Introdução a HTML5 e CSS3 (32h) <br />
+            Alura/Caelum
+        </td>
+    </tr>
+
+    <tr>
       <td> 2015 </td>
       <td>
            Linux com Ubuntu: processos e programas <br />

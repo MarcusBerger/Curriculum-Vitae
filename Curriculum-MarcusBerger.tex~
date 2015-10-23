@@ -53,13 +53,33 @@ Estagiar na área de desenvolvimento de software.
 \section{Formação Complementar}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
-2015        & Introdução a Programação (60h)\\
+2015        & Introdução a Programação(60h)\\
             & Universidade de São Paulo $-$ USP\\ \\
 \end{tabularx}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
 2015        & Try Git\\
             & Code School\\ \\
+\end{tabularx}
+
+\begin{tabularx}{0.97\linewidth}{p{2cm}X}
+2015        & Android Development for Beginners(24h)\\
+            & Udacity\\ \\
+\end{tabularx}
+
+\begin{tabularx}{0.97\linewidth}{p{2cm}X}
+2015        & Linux com Ubuntu: processos e programas\\
+            & Alura/Caelum\\ \\
+\end{tabularx}
+
+\begin{tabularx}{0.97\linewidth}{p{2cm}X}
+2015        & Git: Trabalho em equipe com controle e segurança\\
+            & Alura/Caelum\\ \\
+\end{tabularx}
+
+\begin{tabularx}{0.97\linewidth}{p{2cm}X}
+2015        & Introdução a HTML5 e CSS3(32h)\\
+            & Alura/Caelum\\ \\
 \end{tabularx}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
@@ -81,7 +101,7 @@ Atividades  & Analisar ,conferir e arquivar documentos diversos, Auxiliar na ela
 \section{Conhecimentos Básicos}
 
 \begin{tabularx}{0.97\linewidth}{p{2cm}X}
-    & HTML, CSS, C, Java, Github, Linux, Eclipse e Windows\\
+    & HTML, CSS, C, Java, Github, Linux, Eclipse, Windows e Android Studio\\
 \end{tabularx}
 
 \section{Links}

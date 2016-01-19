@@ -37,6 +37,38 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 
 <table>
     <tr>
+        <td> 2016 </td>
+        <td> 
+            Frações continuas e suas aplicações (18h) <br />
+            Universidade de São Paulo, USP
+        </td>
+    </tr>
+
+    <tr>
+        <td> 2016 </td>
+        <td> 
+            Programação com Linguagem JAVA (30h) <br />
+            Universidade de São Paulo, USP
+        </td>
+    </tr>
+
+    <tr>
+        <td> 2016 </td>
+        <td> 
+            Testes de Programa JAVA (30h) <br />
+            Universidade de São Paulo, USP
+        </td>
+    </tr> 
+
+    <tr>
+        <td> 2016 </td>
+        <td> 
+            Tópicos de Programação (60h) <br />
+            Universidade de São Paulo, USP
+        </td>
+    </tr>
+
+    <tr>
         <td> 2015 </td>
         <td> 
             Introdução a Programação (60h) <br />

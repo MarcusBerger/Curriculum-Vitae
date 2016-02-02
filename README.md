@@ -36,13 +36,6 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 ## Formação Complementar
 
 <table>
-    <tr>
-        <td> 2016 </td>
-        <td> 
-            Frações continuas e suas aplicações (18h) <br />
-            Universidade de São Paulo, USP
-        </td>
-    </tr>
 
     <tr>
         <td> 2016 </td>

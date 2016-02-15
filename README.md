@@ -40,7 +40,7 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2016 </td>
         <td> 
-            Programação com Linguagem JAVA (30h) <br />
+            Tópicos de Programação(60h) <br />
             Universidade de São Paulo, USP
         </td>
     </tr>
@@ -48,7 +48,7 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2016 </td>
         <td> 
-            Testes de Programa JAVA (30h) <br />
+            Programação com a Linguagem JAVA(30h)\ <br />
             Universidade de São Paulo, USP
         </td>
     </tr> 
@@ -56,7 +56,7 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2016 </td>
         <td> 
-            Tópicos de Programação (60h) <br />
+            Testes de programa JAVA(30h) <br />
             Universidade de São Paulo, USP
         </td>
     </tr>
@@ -64,16 +64,8 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2015 </td>
         <td> 
-            Introdução a Programação (60h) <br />
+            Introdução a Programação(60h) <br />
             Universidade de São Paulo, USP
-        </td>
-    </tr>
-
-    <tr>
-        <td> 2015 </td>
-        <td>
-            Try Git <br />
-            Code School
         </td>
     </tr>
 
@@ -88,34 +80,11 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
     <tr>
         <td> 2015 </td>
         <td> 
-            Introdução a HTML5 e CSS3 (32h) <br />
+            Introdução a HTML5 e CSS3(32h) <br />
             Alura/Caelum
         </td>
     </tr>
-
-    <tr>
-      <td> 2015 </td>
-      <td>
-           Linux com Ubuntu: processos e programas <br />
-           Alura/Caelum
-        </td>
-    </tr>
-
-   <tr>
-      <td> 2015 </td>
-      <td>
-           Git: Trabalho em equipe com controle e segurança <br />
-           Alura/Caelum
-        </td>
-    </tr>	
-
-    <tr>
-        <td> 2013 </td>
-        <td> 
-            HTML básico (8h) <br />
-            CIEE
-        </td>
-    </tr>
+	
 </table> 
 
 
@@ -132,12 +101,13 @@ Estou à procura de uma oportunidade de estágio em desenvolvimento, procuro um 
 ## Conhecimentos Básicos
 
 <table>
-	<tr><td>Github, C, HTML, Java, CSS, Linux, Windows e Android Studio</td></tr>
+	<tr><td>Github, Mysql, PHP, C, HTML, Java, CSS, Linux, Windows e Android Studio</td></tr>
 </table>
 
 ## Links
 
 <table>
 	<tr><td>Github: github.com/MarcusBerger</td></tr>
-	<tr><td>Site Pessoal: marcusberger.ninja</td></tr>
+	<tr><td>Site Pessoal: marcus-berger.com</td></tr>
+	<tr><td>br.linkedin.com/in/marcusvcberger</td></tr>
 </table>
